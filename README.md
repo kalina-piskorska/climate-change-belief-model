@@ -1,4 +1,5 @@
 # climate-change-belief-model
+Authors: Kalina Piskorska (University of Vienna), Martin Takáč (Comenius University in Bratislava)
 
 ## Overview
 This NetLogo model simulates the spread of climate change beliefs within a population of individuals. Each believer has an initial belief level, which changes over time due to interactions with other individuals and exposure to media. The aim of the model is to identify possible methods for reducing climate change denial.
